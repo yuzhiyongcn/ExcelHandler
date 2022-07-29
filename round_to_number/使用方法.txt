@@ -1,0 +1,6 @@
+1 复制exe文件, config.ini, 初始化.bat文件到任意空目录, 假设为A
+2 在目录A中创建目录source和converted, 或者双击 "初始化.bat" 自动创建
+3 将要处理的csv文件复制到source目录, 确保一个csv文件只包含一个表格
+4 修改config.ini, 设置要处理的列名, 列名可以来自不同csv文件的不同表格, 设置有效数字
+5 双击exe文件
+6 在converted中查看处理好的文件
